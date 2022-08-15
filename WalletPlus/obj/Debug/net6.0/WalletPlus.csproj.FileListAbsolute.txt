@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\WalletPlus\WalletPlus\obj\Debug\net6.0\WalletPlus.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WalletPlus\WalletPlus\obj\Debug\net6.0\WalletPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WalletPlus\WalletPlus\obj\Debug\net6.0\WalletPlus.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WalletPlus\WalletPlus\obj\Debug\net6.0\WalletPlus.AssemblyInfo.cs
+C:\Users\hp\source\repos\WalletPlus\WalletPlus\obj\Debug\net6.0\WalletPlus.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WalletPlus\WalletPlus\obj\Debug\net6.0\WalletPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\WalletPlus\WalletPlus\obj\Debug\net6.0\WalletPlus.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\WalletPlus\WalletPlus\obj\Debug\net6.0\WalletPlus.RazorAssemblyInfo.cs
